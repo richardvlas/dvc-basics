@@ -1,6 +1,6 @@
 [core]
     remote = azure-data-store
-    autostage = true
+    # autostage = true
 ['remote "azure-data-store"']
     url = azure://dvc-data-store
 ['remote "azure-model-store"']
