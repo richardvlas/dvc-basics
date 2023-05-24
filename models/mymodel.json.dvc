@@ -1,0 +1,5 @@
+outs:
+- md5: 3215096cb053f1b79d8373f78396d2f9
+  size: 24
+  path: mymodel.json
+  remote: azure-model-store
