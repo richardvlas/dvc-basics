@@ -1,0 +1,4 @@
+[core]
+    remote = azure-data-store
+['remote "azure-data-store"']
+    url = azure://dvc-data-store
